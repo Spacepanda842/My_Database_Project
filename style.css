@@ -1,0 +1,63 @@
+#Home\ Page {
+    color: khaki;
+    position: absolute;
+    left: 728px
+}
+
+body {
+    background-color: steelblue;
+}
+
+#About\ Me {
+    color: aqua;
+    position: absolute;
+    top: 127px
+}
+
+#text{
+    position: absolute;
+    top: 190px
+}
+
+#text_1 {
+    position: absolute;
+    top: 202px
+}
+
+#text_2 {
+    position: absolute;
+    top: 219px
+}
+
+#text_3 {
+    position: absolute;
+    top: 234px
+}
+
+#link {
+    position: absolute;
+    top: 280px
+}
+
+
+#Jesus {
+    position: absolute;
+    height: 240px;
+    top: 500px;
+    left: -1px
+}
+
+#MikeTrollinski {
+    position: absolute;
+    height: 240px;
+    top:500px;
+    right: 560px
+
+}
+
+#NinjaKilla {
+    position: absolute;
+    height: 240px;
+    top: 500px;
+    right: 0px
+}

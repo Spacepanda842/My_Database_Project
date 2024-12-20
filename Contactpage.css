@@ -1,0 +1,18 @@
+body {
+    background-color: brown;
+}
+
+#contacts {
+    color: deepskyblue;
+}
+
+#text_1 {
+    font-size: 20px;
+}
+
+#Sukuna {
+    position: absolute;
+    height: 650px;
+    left: 500px;
+    top: 140px
+}
